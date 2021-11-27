@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and finish my own Projects
-- ⚡ Fun fact: I love to game and help others
+- ⚡ Fun fact: I'm offering Discord Bot Development & Hosting aswell as Server-Setup.
 
 ### Connect with me:
 
